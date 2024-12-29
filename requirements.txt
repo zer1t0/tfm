@@ -1,0 +1,13 @@
+warcio
+bs4
+nltk
+lxml
+pandas
+matplotlib
+scikit-learn==1.5.2
+selenium
+langdetect
+urld
+requests
+tqdm
+transformers
